@@ -8,7 +8,7 @@
 ---
 **Example 1:**  
 
-![insert image here]()
+![insert image here](path/to/file)
 
 Input: ```[input]```  
 Output: ```[output]```  
@@ -29,10 +29,20 @@ Explanation: ```[explanation]```
 ```
 ---
 ## Runtime & Space Complexity
-[analysis]
+$[parameter]$ ~ being in ```[parameter]```.  
+
+Runtime Complexity:  
+$\mathcal{O}()$
+
+[explanation]
+
+Space Complexity:  
+$\mathcal{O}()$
+
+[explanation]
 
 ---
 ## Code Performance
-[performance]
+![[lc number] code performance](path/to/file)
 
 ---
