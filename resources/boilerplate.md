@@ -10,9 +10,9 @@
 
 ![insert image here](path/to/file)
 
-Input: ```[input]```  
-Output: ```[output]```  
-Explanation: ```[explanation]```    
+Input: `[input]`  
+Output: `[output]`  
+Explanation: `[explanation]`  
 
 ---
 ## Intuition
@@ -29,7 +29,7 @@ Explanation: ```[explanation]```
 ```
 ---
 ## Runtime & Space Complexity
-$[parameter]$ ~ being in ```[parameter]```.  
+$[parameter]$ ~ being in `[parameter]`.  
 
 Runtime Complexity:  
 $\mathcal{O}()$
